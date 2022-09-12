@@ -18,7 +18,7 @@ I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer wit
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on Data Analyst
+- 🔭 I’m currently working on Data Analytics
 - 🤔 I’m looking for help regarding Higher Studies
 - 📫 How to reach me: naimbinkhadem@gmail.com
 - ⚡ Fun fact: ...xd
