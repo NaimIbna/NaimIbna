@@ -9,7 +9,7 @@
   <img align="left" alt="Naim Ibna| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/naimkhadem/">
-  <img align="left" alt="Naim's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Naim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NaimIbna.NaimIbna)
@@ -17,7 +17,7 @@
 ### Hi there 👋
 I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in and out of the field of CS. With past expertise in project management, proficient in developing databases with MySQL and Oracle, analyzing and displaying data using Excel, Tableau.
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
 
 - 🔭 I’m currently working on Data Analyst
 - 👯 I’m looking to collaborate on ...
