@@ -17,13 +17,12 @@
 ### Hi there 👋
 I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in and out of the field of CS. With past expertise in project management, proficient in developing databases with MySQL and Oracle, analyzing and displaying data using Excel, Tableau.
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Data Analyst
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help regarding Higher Studies
 - 📫 How to reach me: naimbinkhadem@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...xd
 
 <!--
 **NaimIbna/NaimIbna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
