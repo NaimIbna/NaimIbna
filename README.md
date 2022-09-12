@@ -1,7 +1,7 @@
 <a href="https://www.instagram.com/naimkhadem/">
   <img align="left" alt="Naim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<!-- <a href="https://discord.gg/XTW52Kt">
+<!-- <a href="https://discord.gg/naim">
   <img align="left" alt="Naim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <!-- <a href="https://twitter.com/ibna_naim">
@@ -16,7 +16,7 @@
 ### Hi there 👋
 I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in and out of the field of CS. With past expertise in project management, proficient in developing databases with MySQL and Oracle, analyzing and displaying data using Excel, Tableau.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on Data Analytics
 - 🤔 I’m looking for help regarding Higher Studies
