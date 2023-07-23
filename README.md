@@ -1,3 +1,4 @@
+<!--
 <a href="https://www.instagram.com/naimkhadem/">
   <img align="left" alt="Naim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -6,10 +7,10 @@
 </a> -->
 <!-- <a href="https://twitter.com/ibna_naim">
   <img align="left" alt="Naim Ibna| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+</a> 
 <a href="https://www.linkedin.com/in/naimkhadem/">
   <img align="left" alt="Naim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NaimIbna.NaimIbna)
 <br />
