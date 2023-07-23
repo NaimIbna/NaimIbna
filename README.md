@@ -18,8 +18,9 @@ I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer wit
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-- 🔭 I’m currently working on Data Analysis Projects
-- 🤔 I’m looking for help regarding Higher Studies
+<!-- - 🔭 I’m currently working on Data Analysis Projects -->
+- 🔭 I'm interested in Development, Quality testing and Data Analysing 
+- 🤔 I’m looking for New Opportunities.
 - 📫 How to reach me: naimbinkhadem@gmail.com
 - ⚡ Fun fact: ...xd
 
