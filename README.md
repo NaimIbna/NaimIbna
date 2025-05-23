@@ -15,11 +15,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=NaimIbna.NaimIbna)
 <br />
 ### Hi there 👋
-I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in and out of the field of CS. From designing intuitive interfaces to developing intelligent robots, expertise in project management, and ensuring accessibility by leveraging AI, I'm driven by the challenge of bridging the gap between technology and human experience.
+I'm [Naim Ibna Khadem], an out-of-the-box thinking Computer Science Engineer with a wide variety of knowledge both in and out of the field of CS. From designing intuitive interfaces to developing intelligent systems, expertise in project management, and ensuring accessibility by leveraging Artificial Intelligence (AI), I'm driven by the challenge of bridging the gap between technology and human experience.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-- 🔭 I'm interested <i>in Human-Computer Interaction (HCI), Robot Perception, Ubiquitous Accessibility, Health Informatics and Human-Centered AI</i>. 
+<!-- - 🔭 I'm interested <i>in Human-Computer Interaction (HCI), Robot Perception, Ubiquitous Accessibility, Health Informatics and Human-Centered AI</i>.-->
+- 🔭 I'm interested <i>in Artificial Intelligence, Machine Learning, Computer Vision, Ubiquitous Accessibility, Robot Perception, Autonomous Systems</i>.
 - 🤔 I’m looking for New Opportunities.
 - 📫 How to reach me: naimbinkhadem@gmail.com
 - ⚡ Fun fact: ...xd
